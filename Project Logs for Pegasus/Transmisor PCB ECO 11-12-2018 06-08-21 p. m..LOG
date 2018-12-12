@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.4 New Footprint=R Axial 0.4
+Change Component Designator: OldDesignator=CONN1 NewDesignator=ICSP
+Change Net Name : Old Net Name=NetCONN1_1 New Net Name=NetICSP_1
+Change Net Name : Old Net Name=NetCONN1_4 New Net Name=NetICSP_4
+Change Net Name : Old Net Name=NetCONN1_5 New Net Name=NetICSP_5

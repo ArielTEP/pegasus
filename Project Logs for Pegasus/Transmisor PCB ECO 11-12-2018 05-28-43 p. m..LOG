@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=1x4x2.54 Pin Header TH V
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4 New Footprint=1x4x2.54 Pin Header TH V
+Change Component Designator: OldDesignator=ICSP NewDesignator=CONN1
